@@ -68,7 +68,7 @@
 	<h4 class="help">How can we help?</h4>
 	<div class="input_container">
 <input type="text" class="inputSearch" placeholder="Search" name="search">
-<img class="input_img" src="hospitalimages/search-icon-dark.png">
+<img class="input_img" src="search-icon-dark.png">
 </div>
 </div>
 
@@ -95,7 +95,7 @@
 			
 
 			<div class="col2 bg2">
-				<img class="imgClass" src="hospitalimages/cartoon nurse.jpg">
+				<img class="imgClass" src="cartoon nurse.jpg">
 
 			</div>
 		</div>
@@ -103,7 +103,7 @@
 		
 
 
-<!-- <img class="searchbg" src="hospitalimages/question-mark-g09b94064d_1920.jpg"> -->
+<!-- <img class="searchbg" src="question-mark-g09b94064d_1920.jpg"> -->
 
 
 
