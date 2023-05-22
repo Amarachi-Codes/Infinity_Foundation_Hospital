@@ -95,7 +95,7 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
 	</ul>
 </nav>
 </div>
-	<img class="wrapperImg" src="hospitalimages/shiny-textured-background.jpg">
+	<img class="wrapperImg" src="shiny-textured-background-min.jpg">
 
 
 
@@ -138,8 +138,8 @@ if($login){
         
 		<div class="submitwrapper"><button type="submit" class="submit" aria-label="Log In">Log In</button></div>
 		<div class="icon">
-		<a href=""><img src="hospitalimages/fbk1.jpg" class="mainIcon"></a>
-		<a href=""><img src="hospitalimages/gmail.jpg" class="mainIcon"></a>
+		<a href=""><img src="fbk1.jpg" class="mainIcon"></a>
+		<a href=""><img src="gmail.jpg" class="mainIcon"></a>
 	</div>
 		<hr>
 		<div class="account">
