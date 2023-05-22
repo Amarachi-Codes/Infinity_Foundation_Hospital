@@ -118,21 +118,21 @@ if ($_SERVER['REQUEST_METHOD']=='POST'){
 
 	<div class="row ">
 		<div class="col feature-box latestPost">
-			<div><img class="latest-img" src="hospitalimages/post-1.jpg"></div>
+			<div><img class="latest-img" src="post-1.jpg"></div>
 			<h6>Ambulance standby</h6>
 			<p>Do you need an ambulance at your next event?. We provide first and emergency care at all types of events.</p>
 			
 		</div>
 
 		<div class="col feature-box latestPost">
-			<div><img class="latest-img" src="hospitalimages/package-service-img.jpg"></div>
+			<div><img class="latest-img" src="package-service-img.jpg"></div>
 			<h6>Aeromedical evacuation</h6>
 			<p>We provide global medical repatriation services with a guaranteed bed to bed service. We have a highly trained medical team with access to a fleet of air and ground ambulances.</p>
 			
 		</div>
 
 		<div class="col feature-box latestPost">
-			<div><img class="latest-img" src="hospitalimages/post-3.jpg"></div>
+			<div><img class="latest-img" src="post-3.jpg"></div>
 			<h6>Ambulance transport</h6>
 			<p>We provide Ambulance transport services for non-urgent medical needs; eg. laboratory, imaging studies or inter-facility transfers. Schedule an ambulance at your convenience.</p>
 			
@@ -140,21 +140,21 @@ if ($_SERVER['REQUEST_METHOD']=='POST'){
 		</div>
         <div class="row ">
             <div class="col feature-box latestPost">
-                <div><img class="latest-img" src="hospitalimages/post-1.jpg"></div>
+                <div><img class="latest-img" src="post-1.jpg"></div>
                 <h6>Occupational Health Services</h6>
                 <p>Including but not limited to, medical evacuation (air and ground support, procurement, Offshore medicals, Offshore, remote and industrial clinic management and staffing</p>
                 
             </div>
     
             <div class="col feature-box latestPost">
-                <div><img class="latest-img" src="hospitalimages/package-service-img.jpg"></div>
+                <div><img class="latest-img" src="package-service-img.jpg"></div>
                 <h6>Emergency Response</h6>
                 <p>We provide reliable rapid response to life and limb-threatening distress calls</p>
                 
             </div>
     
             <div class="col feature-box latestPost">
-                <div><img class="latest-img" src="hospitalimages/post-3.jpg"></div>
+                <div><img class="latest-img" src="post-3.jpg"></div>
                 <h6>Urgent care</h6>
                 <p>You can’t wait to see a doctor. We have a network of over 300 health care professionals available to guide or answer your concerns.</p>
                 
