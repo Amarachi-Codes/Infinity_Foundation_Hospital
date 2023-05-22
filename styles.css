@@ -419,7 +419,7 @@ border: 1px solid white;
 	}
 	.loginContainer{
 		/* background-color:  #b6b3a3; */
-		background: url(hospitalimages/bg2.jpg);
+		background: url(bg2.jpg);
 		object-fit: contain;
 		background-position: 100% 37%;
 		background-size: cover;
