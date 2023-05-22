@@ -110,7 +110,7 @@ if($success){
         <div class="colSignUp bgcolor1">
 			
             <form action="form.php" method="POST">
-				<input type="image" class="profile" name="profile" src="hospitalimages/user.jpg">
+				<input type="image" class="profile" name="profile" src="user.jpg">
                 <input type="text" class="form-control" name="firstname" aria-label="firstname" placeholder="First Name" required="required"><br>
                 <input type="text" class="form-control" name="lastname" aria-label="lastname" required placeholder="Last Name"><br>
                 <input type="text" class="form-control" name="username" aria-label="username" required placeholder="User Name"><br>
