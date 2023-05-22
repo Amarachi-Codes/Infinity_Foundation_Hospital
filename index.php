@@ -112,19 +112,19 @@ if($result){
   
 <div class="carousel-inner">
     <div class="carousel-item bg active">
-      <img src="hospitalimages/header.png" class="d-block w-100 carousel-img" alt="..." >
+      <img src="header.png" class="d-block w-100 carousel-img" alt="..." >
 	</div>
     <div class="carousel-item bg">
-      <img src="hospitalimages/doc-group-2.png" class="d-block w-100 carousel-img" alt="...">
+      <img src="doc-group-2.png" class="d-block w-100 carousel-img" alt="...">
     </div>
 	<div class="carousel-item bg">
 		
-      <img src="hospitalimages/doc-3.png" class="d-block w-100 carousel-img" alt="..."> 
+      <img src="doc-3.png" class="d-block w-100 carousel-img" alt="..."> 
 	</div>
 
     
     <div class="carousel-item bg">
-      <img src="hospitalimages/about-img.png" class="d-block w-100 carousel-img" alt="...">
+      <img src="about-img.png" class="d-block w-100 carousel-img" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -183,7 +183,7 @@ if($result){
 			
 
 			<div class="col2 imageBg">
-				<img class="imgClass" src="hospitalimages/post-2.jpg">
+				<img class="imgClass" src="post-2.jpg">
 
 			</div>
 			</div>
@@ -237,7 +237,7 @@ if($result){
 				
 	
 					<div class="col2 imageBg">
-						<img class="imgClass" src="hospitalimages/about-img.png">
+						<img class="imgClass" src="about-img.png">
 	
 					</div>
 				</div>
@@ -285,21 +285,21 @@ if($result){
 
 	<div class="row ">
 		<div class="col feature-box latestPost boxShadow">
-			<div><img class="latest-img" src="hospitalimages/post-1.jpg"></div>
+			<div><img class="latest-img" src="post-1.jpg"></div>
 			<h6>Inspiring stories of family centered care during a global pandemic</h6>
 			<p>We are redefiniing cardiac care through ground breaking treatments and novel research</p>
 			<span>January 24 2023</span>
 		</div>
 
 		<div class="col feature-box latestPost boxShadow">
-			<div><img class="latest-img" src="hospitalimages/package-service-img.jpg"></div>
+			<div><img class="latest-img" src="package-service-img.jpg"></div>
 			<h6>Inspiring stories of family centered care during a global pandemic</h6>
 			<p>Our world-renowned neurosurgeons offer exceptional care for brain, spine and cerebrovascular system conditions.</p>
 			<span>January 24 2023</span>
 		</div>
 
 		<div class="col feature-box latestPost boxShadow">
-			<div><img class="latest-img" src="hospitalimages/post-3.jpg"></div>
+			<div><img class="latest-img" src="post-3.jpg"></div>
 			<h6>Inspiring stories of family centered care during a global pandemic</h6>
 			<p>Infinity Women's Hospital is a world-class facility providing superior care for women's unique health care needs</p>
 			<span>January 24 2023</span>
